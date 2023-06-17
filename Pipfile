@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 flask = "*"
 flaskr = {editable = true, path = "."}
+pytest = "*"
+coverage = "*"
 
 [dev-packages]
 autopep8 = "*"
